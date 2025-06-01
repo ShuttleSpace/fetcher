@@ -1,0 +1,37 @@
+
+[✔] Environment
+    - OS: Mac OS 15.5.0 arm64 (X64)
+    ✔ Xcode Command Line Tools: installed
+    ✔ rustc: 1.85.1 (4eb161250 2025-03-15)
+    ✔ cargo: 1.85.1 (d73d2caf9 2024-12-31)
+    ✔ rustup: 1.27.1 (54dd3d00f 2024-04-24)
+    ✔ Rust toolchain: stable-aarch64-apple-darwin (default)
+    - node: 23.11.0
+    - pnpm: 10.9.0
+    - yarn: 1.22.22
+    - npm: 10.9.2
+    - bun: 1.2.5
+
+[-] Packages
+    - tauri 🦀: 2.5.1
+    - tauri-build 🦀: 2.2.0
+    - wry 🦀: 0.51.2
+    - tao 🦀: 0.33.0
+    - @tauri-apps/api : 2.5.0
+    - @tauri-apps/cli : 2.5.0
+
+[-] Plugins
+    - tauri-plugin-fs 🦀: 2.3.0
+    - @tauri-apps/plugin-fs : not installed!
+    - tauri-plugin-http 🦀: 2.4.4
+    - @tauri-apps/plugin-http : 2.4.4
+    - tauri-plugin-opener 🦀: 2.2.7
+    - @tauri-apps/plugin-opener : 2.2.7
+
+[-] App
+    - build-type: bundle
+    - CSP: unset
+    - frontendDist: ../dist
+    - devUrl: http://localhost:1420/
+    - framework: React
+    - bundler: Vite
